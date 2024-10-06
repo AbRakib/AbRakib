@@ -1,40 +1,87 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Abdur Rakib 👋
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession] with a love for creating innovative and efficient solutions. Here, you'll find some of the projects I've worked on, ranging from [mention your main tech stack or area of expertise].
-
----
-
-## 🔧 Technologies & Tools
-- **Languages:** [List your main programming languages like PHP, JavaScript, Python, etc.]
-- **Frameworks & Libraries:** [Laravel, Bootstrap, Select2, jQuery, etc.]
-- **Databases:** [MySQL, SQLite, etc.]
-- **Tools & Platforms:** [Git, Docker, etc.]
+I'm a passionate **PHP & Laravel Developer** from Dhaka, Bangladesh, with a focus on building efficient, scalable, and dynamic web applications. I love to explore new technologies and apply my skills to solve real-world problems.
 
 ---
 
-## 🚀 Current Projects
-- **[Project Name 1]:** A [brief description] using [mention technologies].
-- **[Project Name 2]:** A [brief description] for [specific functionality].
-- **[Personal Website (Optional)]:** Check out my [portfolio](your-website-url) for more!
+## 📞 Contact Information
+- **Phone:** +8801767270051
+- **Email:** [abrakib.cse@gmail.com](mailto:abrakib.cse@gmail.com)
+- **Location:** Dhaka, Bangladesh
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+## 💼 Work Experience
+
+### **Retinasoft** | Software Engineer (PHP & Laravel - Present) 
+- Gathered and analyzed software requirements from stakeholders.
+- Designed and maintained database schemas and structures.
+- Ensured code quality through reviews, testing, and debugging.
+- Developed new features and applications using PHP and Laravel.
+
+### **Satt Academy** | PHP & Laravel Developer (2024)
+- Writing clean, efficient, and maintainable code using PHP and Laravel.
+- Developing, testing, and deploying new features and applications.
+- Collaborating with the developer team on large-scale projects.
+- Using version control systems like GitHub, Bitbucket, and GitLab.
+
+### **Nirvik Technology** | Web Designer & Developer (2023 - 2024)
+- Developed dynamic company websites using PHP.
+- Fixed bugs and maintained projects for improved functionality.
 
 ---
 
-## 🌱 What I'm Learning
-Currently diving deeper into:
-- [New tech you're learning, e.g., Vue.js, Tailwind CSS, etc.]
+## 🎓 Education
+
+### **Rajshahi Polytechnic Institute** | Diploma in Engineering (Computer Technology)
+- **Year:** 2014 - 2018
+- **CGPA:** 3.52 / 4.00
+
+### **Manda S.C. Pilot High School** | Secondary School Certificate
+- **Year:** 2012 - 2014
+- **Result:** 4.56 / 5.00
 
 ---
 
-## 💬 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [Your Twitter Handle](https://twitter.com/yourhandle)
-- **Email:** [your.email@example.com]
+## 💻 Skills
+
+- **Languages:** PHP, JavaScript, HTML5, CSS3
+- **Frameworks & Libraries:** Laravel (Versions 7 to 11), jQuery (AJAX), Bootstrap (4 to 5+)
+- **Version Control:** GitHub, GitLab, Bitbucket
+- **Other Tools:** MySQL, RESTful APIs
 
 ---
 
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project, or just say hi! 😊
+## 🌱 Currently Learning
+- Advancing my skills in PHP and Laravel development.
+- Exploring modern frontend technologies to complement backend work.
+
+---
+
+## 🛠 GitHub Stats
+![Abdur Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+## 🗣 Languages
+- **Bangla:** Fluent
+- **English:** Basic
+- **Hindi:** Basic
+
+---
+
+## 🔗 References
+
+- **Motiur Rahman**  
+  Managing Director, Nirvik Technology  
+  Phone: 01751-333993  
+  Email: motiur.ieee@gmail.com
+
+- **Shahin Alom**  
+  Computer Operator, PWD Head Office  
+  Phone: 01738-444849  
+  Email: shahinbba1.@gmail.com
+
+---
+
+Thanks for stopping by! Feel free to connect or reach out if you'd like to collaborate or discuss tech.
