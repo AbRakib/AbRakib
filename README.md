@@ -40,11 +40,4 @@ I enjoy creating dynamic and scalable web applications. With a focus on clean, m
 
 ---
 
-## 📫 Contact Information
-- 📞 **Phone:** +8801767270051
-- ✉️ **Email:** [abrakib.cse@gmail.com](mailto:abrakib.cse@gmail.com)
-- 🌍 **Location:** Dhaka, Bangladesh
-
----
-
 Thank you for visiting my GitHub profile! I'm always open to new collaborations and exciting projects. Feel free to reach out! 😊
