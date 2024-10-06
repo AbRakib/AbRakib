@@ -2,7 +2,7 @@
 
 ### A passionate **PHP & Laravel Developer** from Dhaka, Bangladesh 🇧🇩
 
-I enjoy creating dynamic and scalable web applications. With a focus on clean, maintainable code, I am always exploring new technologies to solve real-world problems efficiently. 
+I enjoy creating dynamic and scalable web applications. With a focus on clean, maintainable code, I am always exploring new technologies to solve real-world problems efficiently.
 
 ---
 
@@ -15,24 +15,24 @@ I enjoy creating dynamic and scalable web applications. With a focus on clean, m
 
 ## 💼 Work Experience
 
-### 🌟 **Satt Academy** | *PHP & Laravel Developer*  
+### 🌟 **Retinasoft** | *Software Engineer (PHP & Laravel)*  
 *2024 - Present*  
+- 🔍 Collaborate with stakeholders to gather and analyze software requirements.
 - 🛠 Write clean, efficient, and maintainable code using **PHP** and **Laravel**.
 - 🚀 Develop, test, and deploy new features and applications.
-- 👥 Collaborate with the developer team on large-scale projects.
-- 💾 Use version control systems like **GitHub**, **Bitbucket**, and **GitLab**.
-
-### 🌟 **Retinasoft** | *Software Engineer (PHP & Laravel)*  
-*Role Highlights:*  
-- 🔍 Gather and analyze software requirements from stakeholders.
-- 💡 Design and maintain database schemas.
 - 🧪 Ensure code quality through code reviews, testing, and debugging.
-- ⚙️ Develop features and applications using **PHP** and **Laravel**.
+- 💡 Design and maintain database schemas.
+
+### 🌟 **Satt Academy** | *PHP & Laravel Developer*  
+*2024 (3-month project)*  
+- 🛠 Developed new features and applications using **PHP** and **Laravel**.
+- 👥 Worked closely with the developer team on large-scale projects.
+- 💾 Used version control systems like **GitHub**, **Bitbucket**, and **GitLab**.
 
 ### 🌟 **Nirvik Technology** | *Web Designer & Developer*  
 *2023 - 2024*  
 - 💻 Created dynamic, company-based websites using **PHP**.
-- 🔧 Fixed bugs and updated projects for optimal functionality.
+- 🔧 Fixed bugs and updated projects for improved functionality.
 
 ---
 
