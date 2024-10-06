@@ -55,7 +55,7 @@ I enjoy creating dynamic and scalable web applications. With a focus on clean, m
 
 ## 📊 GitHub Stats
 
-![Abdur Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Abdur Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abrakib&show_icons=true&theme=radical)
 
 ---
 
