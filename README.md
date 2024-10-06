@@ -6,13 +6,6 @@ I enjoy creating dynamic and scalable web applications. With a focus on clean, m
 
 ---
 
-## 📫 Contact Information
-- 📞 **Phone:** +8801767270051
-- ✉️ **Email:** [abrakib.cse@gmail.com](mailto:abrakib.cse@gmail.com)
-- 🌍 **Location:** Dhaka, Bangladesh
-
----
-
 ## 💼 Work Experience
 
 ### 🌟 **Retinasoft** | *Software Engineer (PHP & Laravel)*  
@@ -63,6 +56,13 @@ I enjoy creating dynamic and scalable web applications. With a focus on clean, m
 ## 📊 GitHub Stats
 
 ![Abdur Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact Information
+- 📞 **Phone:** +8801767270051
+- ✉️ **Email:** [abrakib.cse@gmail.com](mailto:abrakib.cse@gmail.com)
+- 🌍 **Location:** Dhaka, Bangladesh
 
 ---
 
