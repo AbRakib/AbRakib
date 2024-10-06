@@ -8,7 +8,7 @@ I enjoy creating dynamic and scalable web applications. With a focus on clean, m
 
 ## 💼 Work Experience
 
-| 🌟 Retinasoft |** _Software Engineer (PHP & Laravel)_ <br> _2024 - Present_ <br>  - 🔍 Collaborate with stakeholders to gather and analyze software requirements. <br>  - 🛠 Write clean, efficient, and maintainable code using PHP and Laravel. <br>  - 🚀 Develop, test, and deploy new features and applications. <br>  - 🧪 Ensure code quality through code reviews, testing, and debugging. <br>  - 💡 Design and maintain database schemas. |**
+| 🌟 Retinasoft | _Software Engineer (PHP & Laravel)_ <br> _2024 - Present_ <br>  - 🔍 Collaborate with stakeholders to gather and analyze software requirements. <br>  - 🛠 Write clean, efficient, and maintainable code using PHP and Laravel. <br>  - 🚀 Develop, test, and deploy new features and applications. <br>  - 🧪 Ensure code quality through code reviews, testing, and debugging. <br>  - 💡 Design and maintain database schemas. |
 |:------------------|:-----------------------------------------------------|
 | 🌟 Satt Academy | _PHP & Laravel Developer_ <br> _2024 (3-month project)_ <br>  - 🛠 Developed new features and applications using PHP and Laravel. <br>  - 👥 Worked closely with the developer team on large-scale projects. <br>  - 💾 Used version control systems like GitHub, Bitbucket, and GitLab. |
 | 🌟 Nirvik Technology | _Web Designer & Developer_ <br> _2023 - 2024_ <br>  - 💻 Created dynamic, company-based websites using PHP. <br>  - 🔧 Fixed bugs and updated projects for improved functionality. |
