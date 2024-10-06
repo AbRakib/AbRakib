@@ -36,18 +36,6 @@ I enjoy creating dynamic and scalable web applications. With a focus on clean, m
 
 ---
 
-## 🎓 Education
-
-### 🎓 **Rajshahi Polytechnic Institute** | *Diploma in Engineering (Computer Technology)*  
-*2014 - 2018*  
-- **CGPA:** 3.52 / 4.00
-
-### 🎓 **Manda S.C. Pilot High School** | *Secondary School Certificate*  
-*2012 - 2014*  
-- **Result:** 4.56 / 5.00
-
----
-
 ## 🛠 Skills & Technologies
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
@@ -75,27 +63,6 @@ I enjoy creating dynamic and scalable web applications. With a focus on clean, m
 ## 📊 GitHub Stats
 
 ![Abdur Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
-## 🌐 Languages
-- 🗣️ **Bangla:** Fluent
-- 🗣️ **English:** Basic
-- 🗣️ **Hindi:** Basic
-
----
-
-## 📌 References
-
-- **Motiur Rahman**  
-  Managing Director, Nirvik Technology  
-  📞 Phone: 01751-333993  
-  ✉️ Email: [motiur.ieee@gmail.com](mailto:motiur.ieee@gmail.com)
-
-- **Shahin Alom**  
-  Computer Operator, PWD Head Office  
-  📞 Phone: 01738-444849  
-  ✉️ Email: [shahinbba1@gmail.com](mailto:shahinbba1@gmail.com)
 
 ---
 
