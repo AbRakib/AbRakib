@@ -56,12 +56,5 @@ I'm a passionate **PHP & Laravel Developer** from Dhaka, Bangladesh, with a focu
 - Advancing my skills in PHP and Laravel development.
 - Exploring modern frontend technologies to complement backend work.
 
----
-- **Shahin Alom**  
-  Computer Operator, PWD Head Office  
-  Phone: 01738-444849  
-  Email: shahinbba1.@gmail.com
-
----
-
 Thanks for stopping by! Feel free to connect or reach out if you'd like to collaborate or discuss tech.
+
