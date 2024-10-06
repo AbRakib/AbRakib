@@ -57,26 +57,6 @@ I'm a passionate **PHP & Laravel Developer** from Dhaka, Bangladesh, with a focu
 - Exploring modern frontend technologies to complement backend work.
 
 ---
-
-## 🛠 GitHub Stats
-![Abdur Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
-## 🗣 Languages
-- **Bangla:** Fluent
-- **English:** Basic
-- **Hindi:** Basic
-
----
-
-## 🔗 References
-
-- **Motiur Rahman**  
-  Managing Director, Nirvik Technology  
-  Phone: 01751-333993  
-  Email: motiur.ieee@gmail.com
-
 - **Shahin Alom**  
   Computer Operator, PWD Head Office  
   Phone: 01738-444849  
