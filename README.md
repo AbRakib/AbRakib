@@ -33,6 +33,8 @@ I enjoy creating dynamic and scalable web applications. With a focus on clean, m
 - **Other Tools:** RESTful APIs, MVC architecture
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
 ## 📊 GitHub Stats
 
